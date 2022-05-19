@@ -1,0 +1,20 @@
+{
+    "DeviceInfo": {
+        "manufacturerId": [1, 0, 0],
+        "familyId": [0,0],
+        "modelId": [0,0],
+        "versionId": [0,0,0,0],
+        "manufacturer": "FL Studio",
+        "family": "Synth",
+        "model": "Test0",
+        "version": "0",
+        "serialNumber": "0"
+    },
+    "ChannelList": {
+        "title": "Vocoder Synth",
+        "channel": 0,
+        "programTitle": "Harmless", 
+        "bankPC": [0,0,0]
+    },
+    "ControllerParameters": ["Reverb", "Pitch", "LPFilter", "Piano"]
+}

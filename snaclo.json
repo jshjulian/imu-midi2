@@ -1,0 +1,20 @@
+{
+    "DeviceInfo": {
+        "manufacturerId": [1, 0, 0],
+        "familyId": [0,1],
+        "modelId": [0,1],
+        "versionId": [0,0,0,1],
+        "manufacturer": "Julian Hamelberg",
+        "family": "Vocoder",
+        "model": "SNACLO",
+        "version": "0.1",
+        "serialNumber": "1"
+    },
+    "ChannelList": {
+        "title": "Vocoder",
+        "channel": 0,
+        "programTitle": "SNACLO", 
+        "bankPC": [0,0,0]
+    },
+    "ControllerParameters": ["Roll", "Pitch", "Yaw", "Button1", "Button2", "Button3", "Button4"]
+}
